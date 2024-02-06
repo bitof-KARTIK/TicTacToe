@@ -31,21 +31,16 @@
 
   <div class="code-block">
     <p>Clone the repository:</p>
-    <code>git clone https://github.com/your-username/tic-tac-toe.git</code>
+    <code>git clone https://github.com/bitof-KARTIK/TicTacToe.git</code>
     <p>Open the project in a web browser by double-clicking on <code>index.html</code>.</p>
   </div>
-
-  <h2>License</h2>
-
-  <p>
-    This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
-  </p>
+ 
 
   <h2>Author</h2>
 
   <p>
-    Your Name<br>
-    GitHub: <a href="https://github.com/your-username">https://github.com/your-username</a>
+    Kartik<br>
+    GitHub: <a href="https://github.com/bitof-KARTIK">https://github.com/bitof-KARTIK</a>
   </p>
 
 </body>
